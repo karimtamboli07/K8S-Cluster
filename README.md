@@ -66,19 +66,9 @@ Ensure all pods are running and the node shows as READY.
 
 ---
 
-## 🎓 Demo / Tutorial
-*If you have a demo video or blog, add the link here.*
-
----
-
 ## 🙋 Author
 - **Karim Tamboli**  
   GitHub: [karimtamboli07](https://github.com/karimtamboli07)
-
----
-
-## 📄 License
-Mention the license used in this project (e.g., MIT, Apache‑2.0).
 
 ---
 
